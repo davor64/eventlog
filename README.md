@@ -1,4 +1,4 @@
-# Event log interview question solution example
+# Event log parser
 
 Example interview question solution (event log parser) with O complexity analysis.
 
